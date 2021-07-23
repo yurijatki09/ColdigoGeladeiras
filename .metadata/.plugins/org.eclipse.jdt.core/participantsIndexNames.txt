@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\yuri_\OneDrive\Área de Trabalho\WorkspaceTrilhaWeb\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\71538927.index
+\ProjetoTrilhaWeb\src
